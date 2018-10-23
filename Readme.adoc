@@ -1,0 +1,22 @@
+= AsciiDoc Tests
+:imagesdir: ./assets/images/
+*Table of Content*
+:toc:
+:toc-title:
+:toclevels: 4
+
+
+== Align Images
+
+Left:
+
+image::logo.png[width="100",height="100",align="left"]
+
+Center:
+
+image::logo.png[width="100",height="100",align="center"]
+
+Right:
+
+image::logo.png[width="100",height="100",align="right"]
+
