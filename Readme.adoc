@@ -55,7 +55,7 @@ Right:
 ++++
 
 
-=== Add a Video
+== Add a Video
 
 This is a summarize of agrirouter.Connect2018 in Kiekeberg:
 
@@ -71,3 +71,7 @@ Lets try some HTML Code instead
 ++++
 
 Also this doesn't work
+
+I lately learned, that you can however "embed" a video using a preview image and a background link:
+
+image:https://img.youtube.com/vi/A8RXsJpvi5U/0.jpg[link="https://www.youtube.com/watch?v=A8RXsJpvi5U"]
