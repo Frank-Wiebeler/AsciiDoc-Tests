@@ -53,3 +53,10 @@ Right:
 </p>
 
 ++++
+
+
+=== Add a Video
+
+This is a summarize of agrirouter.Connect2018 in Kiekeberg:
+ 
+video::GMoYV4GAz9k[youtube]
