@@ -6,6 +6,36 @@
 :toclevels: 4
 
 
+== TABLES
+
+=== Based on the application type
+
+[cols=",,",width="100%"]
+|============================
+>s|CU (Telemetry Connections) >s|Farming Software  >s| Telemetry Platforms
+ 1.5+^.^|Onboarding 2.1+^|Authorization Process
+ 2.1+^|Secured Onboarding
+ | 1.1+^| VCU onboarding
+ 2.1+^|Revoking
+ | 1.1+^| VCU offboarding
+ 3.1+^|ReOnboarding
+ 3.1+^|Sending Capabilities
+ 2.1+|  | Send Capabilities (for each VCU)
+ 3.1+^|Clean your feed
+ 2.1+|  | Clean each VCU feed
+
+|============================
+
+=== Based on direction
+
+[cols=",",width="100%"]
+|============================
+>s|Send >s|Receive
+
+
+|============================
+
+
 == Align Images
 
 The official way **does not work**
@@ -82,4 +112,9 @@ image:https://img.youtube.com/vi/A8RXsJpvi5U/1.jpg[link="https://www.youtube.com
 
 
 image:https://img.youtube.com/vi/A8RXsJpvi5U/2.jpg[link="https://www.youtube.com/watch?v=A8RXsJpvi5U"]
+
+++++
+<table>
+    <tr>
+++++
 
